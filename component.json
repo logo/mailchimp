@@ -3,7 +3,7 @@
   "name": "mailchimp",
   "repo": "logo/mailchimp",
   "description": "The MailChimp logo.",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "license": "MIT",
   "styles": [
     "style.css"
