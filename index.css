@@ -1,21 +1,2 @@
-
-/**
- * MailChimp logo.
- */
-
-.logo[data-logo="MailChimp"] {
-  width: 4.6952775em;
-}
-
-.logo[data-logo="MailChimp"] > * {
-  background-image: url(images/logo.svg);
-  margin: 0 0 -.15em 0;
-}
-
-.logo[data-logo="MailChimp"][data-color="black"] > * {
-  background-image: url(images/logo-black.svg);
-}
-
-.logo[data-logo="MailChimp"][data-color="white"] > * {
-  background-image: url(images/logo-white.svg);
-}
+@import 'logo/logo';
+@import './style';
